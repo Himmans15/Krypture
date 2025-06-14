@@ -45,26 +45,28 @@ Welcome to **Krypture**, a sleek and modern cryptocurrency platform built for cl
 
 ### Installation
 
-1. Clone the repo:
+1. **Clone the repo**:
    
 ```bash
 git clone https://github.com/yourusername/krypture.git
 cd krypture
 ```
 
-2. Install dependencies:
+2. **Install dependencies**:
 
 ```bash
 npm install
 # or
 yarn dev
+```
 
-3. Start the development server:
+3. **Start the development server**:
 
 ```bash
 npm run dev
 # or
 yarn dev
+```
 
 ### Project structure
 
@@ -74,3 +76,19 @@ src/
 ├── services/           # API service functions (coinCurrencyAPI, coinDetailAPI, newsApi)
 ├── App.jsx             # Root app component with routes
 ├── main.jsx            # React DOM render & app bootstrap
+
+
+## 🚩 Usage
+🏠 **Home Page**: Browse top cryptocurrencies with key stats and sparkline charts
+
+📈 **Coin Detail**: Click a coin card to explore detailed price charts & data
+
+💵 **Converter**: Convert any crypto to popular fiat currencies instantly
+
+📰 **News**: Read the latest crypto news aggregated from trusted sources
+
+ℹ️ **About**: Learn about Krypture’s philosophy and team
+
+
+## 📬 Contact
+Built with ❤️ by [Himmans](https://github.com/Himmans15) — get in touch!
