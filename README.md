@@ -40,11 +40,13 @@ Welcome to **Krypture**, a sleek and modern cryptocurrency platform built for cl
 
 ### Prerequisites
 
-- Node.js (v16 or above recommended)
+- React.js 
 - npm or yarn
 
 ### Installation
 
+1. Clone the repo
+   
 ```bash
 git clone https://github.com/yourusername/krypture.git
 cd krypture
