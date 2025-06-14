@@ -17,6 +17,7 @@ Welcome to **Krypture**, a sleek and modern cryptocurrency platform built for cl
 
 ---
 
+  
 ## 🛠 Technologies Used
 
 ![React](https://img.shields.io/badge/React-19.1.0-blue?logo=react&logoColor=white)
@@ -36,12 +37,15 @@ Welcome to **Krypture**, a sleek and modern cryptocurrency platform built for cl
 
 ---
 
+
 ## ⚡ Getting Started
+
 
 ### Prerequisites
 
 - React.js 
 - npm or yarn
+
 
 ### Installation
 
@@ -52,6 +56,7 @@ git clone https://github.com/yourusername/krypture.git
 cd krypture
 ```
 
+
 2. **Install dependencies**:
 
 ```bash
@@ -59,6 +64,7 @@ npm install
 # or
 yarn dev
 ```
+
 
 3. **Start the development server**:
 
@@ -68,6 +74,7 @@ npm run dev
 yarn dev
 ```
 
+
 ### Project structure
 
 src/
@@ -76,6 +83,8 @@ src/
 ├── services/           # API service functions (coinCurrencyAPI, coinDetailAPI, newsApi)
 ├── App.jsx             # Root app component with routes
 ├── main.jsx            # React DOM render & app bootstrap
+
+
 
 
 ## 🚩 Usage
@@ -88,6 +97,7 @@ src/
 📰 **News**: Read the latest crypto news aggregated from trusted sources
 
 ℹ️ **About**: Learn about Krypture’s philosophy and team
+
 
 
 ## 📬 Contact
