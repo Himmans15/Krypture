@@ -50,6 +50,7 @@ Welcome to **Krypture**, a sleek and modern cryptocurrency platform built for cl
 ```bash
 git clone https://github.com/yourusername/krypture.git
 cd krypture
+```
 
 2. Install dependencies:
 
