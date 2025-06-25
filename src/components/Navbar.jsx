@@ -19,10 +19,13 @@ const Navbar = () => {
             <Link to="/" className="hover:text-yellow-400 ">
               Home
             </Link>
-            <Link to="/" className="hover:text-yellow-400">
+            <Link to="/news" className="hover:text-yellow-400 ">
               News
             </Link>
-            <Link to="/" className="hover:text-yellow-400">
+            <Link to="/converter" className="hover:text-yellow-400">
+              Converter
+            </Link>
+            <Link to="/about" className="hover:text-yellow-400">
               About
             </Link>
           </div>
