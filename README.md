@@ -33,9 +33,7 @@ Welcome to **Krypture**, a sleek and modern cryptocurrency platform built for cl
 - CoinGecko API for reliable crypto data
 - RSS2JSON for news feed conversion
 
----
 
-<<<<<<< HEAD
 ## ⚡ Getting Started
 
 ### Prerequisites
@@ -51,7 +49,7 @@ cd krypture
 npm install
 npm run dev
 ```
-=======
+
 
 ## ⚡ Getting Started
 
@@ -92,13 +90,14 @@ yarn dev
 
 ### Project structure
 
+```bash
 src/
 ├── components/         # Reusable UI components (Navbar, CryptoCard, ConverterForm, etc.)
 ├── pages/              # Main page components (Home, CoinPage, Converter, About, News)
 ├── services/           # API service functions (coinCurrencyAPI, coinDetailAPI, newsApi)
 ├── App.jsx             # Root app component with routes
 ├── main.jsx            # React DOM render & app bootstrap
-
+```
 
 
 
