@@ -1,4 +1,4 @@
-# 🚀 Krypture — Next-Gen Crypto Dashboard & Converter
+# 🚀 Krypture
 
 ![Krypture Screenshot](https://via.placeholder.com/900x400?text=Krypture+Dashboard+Screenshot)
 
@@ -15,12 +15,7 @@ Welcome to **Krypture**, a sleek and modern cryptocurrency platform built for cl
 - 📱 **Responsive Design**: Fully responsive and mobile-friendly with a clean, intuitive UI powered by Tailwind CSS
 - 🌗 **Dark & Light Mode Ready**: Easily customizable styles for your preference
 
----
 
-<<<<<<< HEAD
-=======
-  
->>>>>>> c5863fba6b79a43e78a40f227fd66fdef30484ca
 ## 🛠 Technologies Used
 
 ![React](https://img.shields.io/badge/React-19.1.0-blue?logo=react&logoColor=white)
@@ -122,4 +117,4 @@ src/
 
 ## 📬 Contact
 Built with ❤️ by [Himmans](https://github.com/Himmans15) — get in touch!
->>>>>>> c5863fba6b79a43e78a40f227fd66fdef30484ca
+
