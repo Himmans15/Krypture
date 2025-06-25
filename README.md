@@ -1,6 +1,6 @@
 # 🚀 Krypture
 
-![Krypture Screenshot](public/src/assets/pic1.png)
+![Krypture Screenshot](src/assets/pic1.png)
 
 Welcome to **Krypture**, a sleek and modern cryptocurrency platform built for clarity, trust, and ease of use. Whether you’re a casual user, developer, or crypto enthusiast, Krypture helps you track coins, view detailed charts, convert currencies, and stay updated with the latest crypto news — all in one place.
 
